@@ -1,2 +1,96 @@
-# analisis-retail-ventas-inventario
-Proyecto de Business Intelligence para análisis de ventas, inventario y logística en retail, orientado a la toma de decisiones comerciales y operativas.
+# 📊 Análisis Integral de Ventas, Inventario y Logística (Retail)
+
+Dashboard de **Business Intelligence** orientado a la toma de decisiones comerciales y operativas para una tienda de sneakers, integrando ventas, inventario y desempeño logístico en un solo modelo analítico.
+
+---
+
+## 🎯 Objetivo del proyecto
+
+Brindar una **visión ejecutiva y operativa** del negocio para responder preguntas clave como:
+
+- ¿Qué sucursales generan más ingresos y rentabilidad?
+- ¿Dónde existe riesgo de quiebre de stock?
+- ¿Qué productos tienen exceso o baja rotación?
+- ¿Qué proveedores generan retrasos y riesgo operativo?
+- ¿Cómo optimizar inventario y logística sin afectar ventas?
+
+---
+
+## 🏬 Contexto del negocio
+
+- Tipo de negocio: Retail (tienda de sneakers)
+- Ubicación: Ciudad de México
+- Operación: Multisucursal
+- Canales de análisis:
+  - Ventas
+  - Inventario
+  - Logística / Proveedores
+
+---
+
+## 🧠 Enfoque analítico
+
+El proyecto se desarrolló con un enfoque de **Business Intelligence**, priorizando:
+
+- KPIs claros y accionables
+- Segmentación por sucursal, producto y periodo
+- Identificación de riesgos operativos
+- Soporte a decisiones tácticas y estratégicas
+
+---
+
+## 📈 Principales análisis incluidos
+
+### Ventas y rentabilidad
+- Ingresos totales y netos
+- Volumen de ventas por sucursal
+- Evolución temporal de ingresos
+- Distribución por medio de pago
+
+### Inventario y riesgo operativo
+- Stock disponible por producto y sucursal
+- Días de cobertura promedio
+- Identificación de productos en riesgo medio y alto
+- Valor de inventario por sucursal
+
+### Logística y proveedores
+- Órdenes totales vs órdenes con retraso
+- Días promedio de retraso
+- Proveedores con mayor impacto operativo
+- Riesgo logístico por sucursal
+
+---
+
+## 🛠️ Herramientas utilizadas
+
+- **Power BI**
+  - Modelado de datos
+  - Creación de KPIs
+  - Visualizaciones ejecutivas y operativas
+
+- **SQL**
+  - Consultas para análisis y preparación de datos
+  - Agregaciones y métricas clave
+
+- **Excel**
+  - Dataset base
+  - Validación de datos
+
+---
+
+## 📊 Dashboards
+
+El proyecto incluye vistas enfocadas en distintos niveles de decisión:
+
+- Vista ejecutiva (estado general del negocio)
+- Vista comercial (ventas y rentabilidad)
+- Vista operativa (inventario y riesgo)
+- Vista logística (proveedores y retrasos)
+
+🔗 **Ver dashboard en Power BI / NovyPro:**  
+*(agregar link cuando esté público)*
+
+---
+
+## 📁 Estructura del repositorio
+
