@@ -1,0 +1,27 @@
+# 📊 Power BI – Análisis Retail
+
+Este directorio contiene el archivo de Power BI con los dashboards del proyecto de ventas, inventario y logística retail.
+
+## 📄 Archivo
+- `dashboard_retail.pbix`
+
+## 🧠 Contenido del dashboard
+El modelo y los dashboards incluyen:
+- KPIs de ventas y rentabilidad
+- Análisis por sucursal y producto
+- Control de inventario y días de cobertura
+- Identificación de productos en riesgo
+- Análisis de proveedores y retrasos
+
+## 🎯 Objetivo del dashboard
+Proporcionar una herramienta visual que permita:
+- Monitorear el desempeño comercial
+- Detectar riesgos operativos
+- Apoyar decisiones tácticas y estratégicas
+- Optimizar inventario y logística
+
+## 👥 Usuarios objetivo
+- Gerentes comerciales
+- Analistas de operaciones
+- Responsables de inventario
+- Equipos de toma de decisiones
