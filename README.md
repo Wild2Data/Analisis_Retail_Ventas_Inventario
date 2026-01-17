@@ -88,6 +88,6 @@ El proyecto incluye vistas enfocadas en distintos niveles de decisión:
 - Vista logística (proveedores y retrasos)
 
 🔗 **Ver dashboard en Power BI / NovyPro:**  
-*(agregar link cuando esté público)*
+*([Dashboards Sneakers](https://app.powerbi.com/view?r=eyJrIjoiOTI2MGVhMWYtMzM5OC00OTc3LWE2ZjQtNGQ5ODIzNGFhMTg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))*
 
 
