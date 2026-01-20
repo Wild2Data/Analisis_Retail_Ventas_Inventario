@@ -104,3 +104,16 @@ El proyecto incluye vistas enfocadas en distintos niveles de decisión:
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
 **Keywords:** Retail Analytics, Control de Inventarios, Logística, Días de Cobertura, Supply Chain.
+
+---
+
+## 👤 Autor
+
+**Williams Alberto Aguilera León**  
+Analista de Inteligencia de Negocios y Datos  
+
+🔗 LinkedIn: https://www.linkedin.com/in/williams-alberto-aguilera-león  
+---
+
+Este proyecto forma parte de mi portafolio profesional enfocado en **análisis financiero, Business Intelligence y visualización de datos aplicados a industrias reales**.
+
