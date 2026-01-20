@@ -98,4 +98,9 @@ El proyecto incluye vistas enfocadas en distintos niveles de decisión:
 🔗 **Ver dashboard en Power BI / NovyPro:**  
 *([Dashboards Sneakers](https://app.powerbi.com/view?r=eyJrIjoiOTI2MGVhMWYtMzM5OC00OTc3LWE2ZjQtNGQ5ODIzNGFhMTg1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))*
 
+---
 
+### 🛠️ Tecnologías y Metadatos
+![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
+
+**Keywords:** Finanzas Deportivas, ROI, Análisis de Fichajes, Modelado de Datos, ETL.
