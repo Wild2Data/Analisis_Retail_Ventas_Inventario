@@ -103,4 +103,4 @@ El proyecto incluye vistas enfocadas en distintos niveles de decisión:
 ### 🛠️ Tecnologías y Metadatos
 ![SQL](https://img.shields.io/badge/SQL-Expert-blue) ![Power BI](https://img.shields.io/badge/Power_BI-Advanced-yellow) ![License](https://img.shields.io/badge/License-MIT-green)
 
-**Keywords:** Finanzas Deportivas, ROI, Análisis de Fichajes, Modelado de Datos, ETL.
+**Keywords:** Retail Analytics, Control de Inventarios, Logística, Días de Cobertura, Supply Chain.
