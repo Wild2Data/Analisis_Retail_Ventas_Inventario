@@ -28,6 +28,14 @@ Brindar una **visión ejecutiva y operativa** del negocio para responder pregunt
 
 ---
 
+### 🏗️ Modelo de Datos (Diagrama Entidad-Relación)
+
+![Modelo de Datos](URL_DE_TU_IMAGEN_AQUI)
+
+*Este modelo sigue una arquitectura de **Esquema en Estrella**, optimizando el rendimiento de las consultas y la claridad en la navegación de Power BI.*
+
+---
+
 ## 🧠 Enfoque analítico
 
 El proyecto se desarrolló con un enfoque de **Business Intelligence**, priorizando:
