@@ -30,7 +30,7 @@ Brindar una **visión ejecutiva y operativa** del negocio para responder pregunt
 
 ### 🏗️ Modelo de Datos (Diagrama Entidad-Relación)
 
-![Modelo de Datos](URL_DE_TU_IMAGEN_AQUI)
+![Modelo de Datos](https://github.com/Wild2Data/Analisis_Retail_Ventas_Inventario/blob/main/images/Modelo%20Relacional%20Retail.png?raw=true)
 
 *Este modelo sigue una arquitectura de **Esquema en Estrella**, optimizando el rendimiento de las consultas y la claridad en la navegación de Power BI.*
 
